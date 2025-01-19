@@ -1,0 +1,3 @@
+flask
+momento
+python-dotenv
